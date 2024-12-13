@@ -1,0 +1,15 @@
+{
+  "name": "explorerapi",
+  "version": "1.0.0",
+  "description": "API desenvolvida no programa Explorer da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Arthur dos Santos Araujo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
